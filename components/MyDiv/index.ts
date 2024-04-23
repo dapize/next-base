@@ -1,0 +1,1 @@
+export { MyDiv } from "./MyDiv";
